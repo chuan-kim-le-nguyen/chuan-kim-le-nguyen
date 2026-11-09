@@ -19,4 +19,4 @@ Python · Excel · Xero · Git/GitHub
 Coming soon: first projects are in progress.
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/chuanledeakinbcomm)
+[LinkedIn](https://www.linkedin.com/in/chuanledeakinbcom/)
