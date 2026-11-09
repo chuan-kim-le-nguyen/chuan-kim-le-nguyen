@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Chuan 👋
 
-<!--
-**chuan-kim-le-nguyen/chuan-kim-le-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Accounting graduate turned **AI for Business** student, based in Melbourne.
+I'm interested in using data and automation to help finance teams spend less time on repetitive work and more time on decisions.
 
-Here are some ideas to get you started:
+## 🔭 Currently
+- Studying a **Master of Information Systems (AI for Business)** at Deakin University (expected Nov 2027)
+- Exploring AI workflow automation for small-business accounting: accounts receivable, reconciliations and reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Background
+- **Bachelor of Commerce** (Accounting major, Finance minor), Deakin University
+- Hands-on accounts receivable experience: Xero, aged receivables, credit notes, GST
+- Data Analyst internship at Fruit2Work
+
+## 🛠️ Tools
+Python · Excel · Xero · Git/GitHub
+
+## 📂 Projects
+Coming soon: first projects are in progress.
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/chuanledeakinbcomm)
